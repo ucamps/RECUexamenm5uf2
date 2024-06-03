@@ -21,8 +21,19 @@ git commit -m "arxiu license"
 git push https://github.com/ucamps/RECUexamenm5uf2.git
 
 --versio 3--
-WindowsFormsApp1 .gitignore
+nano .gitignore
 git add .
-git commit -m "arxiu license"
 git commit -m "no afegir executables del projecte de c#"
 git push https://github.com/ucamps/RECUexamenm5uf2.git
+
+--versio 4--
+git add .
+$ git commit -m "versio 4 unic canvi el document"
+git push https://github.com/ucamps/RECUexamenm5uf2.git
+
+--versio 5--
+git add .
+$ git commit -m "versio 5 cambis al visual"
+git push https://github.com/ucamps/RECUexamenm5uf2.git
+
+--versio 6--
