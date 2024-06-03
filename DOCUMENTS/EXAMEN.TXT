@@ -1,0 +1,21 @@
+--versio 1--
+mkdir examenm5uf2
+cd examenm5uf2
+git init
+nano README.MD
+nano AUTHOR.TXT
+git remote add origin https://github.com/ucamps/RECUexamenm5uf2.git
+git add README.MD
+git add AUTHOR.TXT
+git commit -m "Primers fichers"
+git push https://github.com/ucamps/RECUexamenm5uf2.git
+ master
+mkdir DOCUMENTS
+cd DOCUMENTS
+nano EXAMEN.TXT
+
+--versio 2--
+nano LICENSE 
+git add LICENSE
+git commit -m "arxiu license"
+git push https://github.com/ucamps/RECUexamenm5uf2.git
