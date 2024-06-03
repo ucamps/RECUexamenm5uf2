@@ -19,3 +19,10 @@ nano LICENSE
 git add LICENSE
 git commit -m "arxiu license"
 git push https://github.com/ucamps/RECUexamenm5uf2.git
+
+--versio 3--
+WindowsFormsApp1 .gitignore
+git add .
+git commit -m "arxiu license"
+git commit -m "no afegir executables del projecte de c#"
+git push https://github.com/ucamps/RECUexamenm5uf2.git
